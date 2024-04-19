@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Izzat Karimov\\Desktop\\Lab 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23AAFF1E-A41A-4B29-8416-C068D4C253E9}|Lab 6\\Lab 6.csproj|c:\\users\\izzat karimov\\desktop\\lab 6\\lab 6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23AAFF1E-A41A-4B29-8416-C068D4C253E9}|Lab 6\\Lab 6.csproj|solutionrelative:lab 6\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 390,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Izzat Karimov\\Desktop\\Lab 6\\Lab 6\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab 6\\Form2.cs",
+              "ToolTip": "C:\\Users\\Izzat Karimov\\Desktop\\Lab 6\\Lab 6\\Form2.cs [Design]",
+              "RelativeToolTip": "Lab 6\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:38:22.466Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

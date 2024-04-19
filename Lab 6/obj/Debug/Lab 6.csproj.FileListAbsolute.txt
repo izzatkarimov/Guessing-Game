@@ -1,0 +1,11 @@
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.AssemblyReference.cache
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab_6.Form1.resources
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.cache
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
+C:\Users\Izzat Karimov\Desktop\Lab 6\Lab 6\obj\Debug\Lab_6.Form2.resources
